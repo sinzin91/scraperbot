@@ -1,10 +1,11 @@
 {
-  "name": "norrisbot",
+  "name": "scraperbot",
   "version": "1.0.0",
-  "description": "norrisbot is slackbot",
-  "main": "lib/norrisbot.js",
+  "description": "scraperbot abscracts sql queries",
+  "main": "lib/scraperbot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/bot.js"
   },
   "author": "Tenzin",
   "license": "ISC",
