@@ -12,6 +12,7 @@
   "dependencies": {
     "slackbots": "^0.5.0",
     "mysql": "",
-    "dynasty": ""
+    "dynasty": "",
+    "csv-write-stream": ""
   }
 }
