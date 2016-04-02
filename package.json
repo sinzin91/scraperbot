@@ -17,6 +17,7 @@
     "moment": "",
     "promise": "",
     "pg-promise": "",
-    "json2csv": ""
+    "json2csv": "",
+    "librato-node": ""
   }
 }
